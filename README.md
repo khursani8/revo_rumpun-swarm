@@ -1,3 +1,5 @@
+> **Unique:** Single-commit public-release snapshot of the same rumpun swarm CLI, with internal dirs renamed to Malay (musim, akar, rimba, benih) instead of the dev line's English layout.
+
 # rumpun
 
 rumpun is a CLI that bootstraps a self-evolving multi-agent swarm in a folder.
